@@ -1,4 +1,4 @@
-# Auto-ticket-multigroup-classifier
+# Auto-ticket Assignment-multigroup-classifier
 --------------------
 **Problem**
 Manual assignment of incidents is time consuming and requires human efforts. There may be mistakes due to human errors and resource consumption is carried out ineffectively because of the misaddressing. On the other hand, manual assignment increases the response and resolution times which result in user satisfaction deterioration / poor customer service.
